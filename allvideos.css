@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.Background{
+	background-image:url("diamond.jpg");
+	 
+
+}
+.heading{
+	color: white;
+}
+.first-half{
+	width: 20%;
+}
+.first-half img{
+	width: 447%;
+	border: 2px solid white;
+}
+.first-half img:hover{
+	width: 447%;
+	border: 2px solid red;
+}
+.desc{
+	color: white;
+	font-size: 25px;
+
+}
+.firstsection{
+	display: flex;
+	padding-bottom: 37px;
+}
+.box-main{
+	padding-left: 34px;
+
+}

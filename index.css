@@ -1,0 +1,188 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.navbar{
+	display: flex;
+}
+.navlist{
+	width: 50%;
+	 
+	display: flex;
+
+
+}
+.navlist li{
+	list-style: none;
+	padding:26px 30px;
+
+
+}
+.navlist li a{
+	text-decoration: none;
+	color : white;
+
+}
+.navlist li a:hover{
+	text-decoration: none;
+	color: grey;
+
+}
+.rightnav{
+	
+	width: 50%;
+	text-align: right;
+
+}
+.logo{
+	width: 20%;
+	display: flex;
+	padding: 4px
+
+}
+.logo img{
+	width: 75%;
+	/*border: 2px solid white;*/
+	border-radius: 25px;
+}
+#search{
+	padding: 5px;
+	font-size: 17px;
+	border: 2px solid grey;
+	border-radius: 9px
+}
+.background{
+	background: rgba(0,0,0,0.7) url('ultathor1.jpg');
+	background-size: cover;
+	background-blend-mode: darken;}
+
+
+.Welcome{
+	color:white;
+	font-size: 50px
+
+}
+.DESC{
+	color: white;
+    padding-left: 349px;
+}
+      
+.description{
+ 	font-size: 25px;
+ 	padding-left: 158px;
+ }
+.caption1{
+	color:white;
+	font-size: 30px;
+	border: 5px solid white;
+	border-radius: 15px;    
+}
+.little-detail1{
+	font-size: 20px;
+	color: white;
+}
+.box-main{
+	
+	padding-top: 100px;
+	display: flex;
+}
+.firsthalf{
+     padding-left: 71px; 
+     padding-top: 50px;
+
+}
+
+
+ 
+
+.buttons{
+	 padding-top: 0px;
+    size: 30px;
+    display: flex;
+    margin-left: 137px;
+    
+    margin-top: 43px;
+
+
+
+}
+
+.buttons  a{
+	
+	text-decoration: none;
+	color: white;
+	background-color: none;
+	font-size: 25px;
+
+
+
+}
+.buttons  a:hover{
+	text-decoration: none;
+	color: grey;
+	background-color: none;
+	font-size: 20px;
+
+}
+.buttons li{
+	list-style: none;
+}
+.btnv{padding-right: 0px;
+	border: 3px solid white;
+	 margin-right: 38px
+}
+.btnw{
+	    border: 3px solid white;
+}
+.second-half{
+	width: 25%;
+	display: flex;
+	padding: 4px
+}
+.second-half img{
+	width: 100%;
+	
+	
+	border-radius: 5px;
+}
+.second-half img:hover{
+	width: 100%;
+	border:5px solid white;
+	
+	border-radius: 5px;
+}
+.warn h1{
+    font-size: 20px;
+    color:white;
+}
+.devlop{
+	font-size: 15px;
+	color: white;
+}
+.warn{
+	padding-left:50px;
+	font-style: oblique;
+	font-weight: bolder;
+	background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
